@@ -3,5 +3,5 @@ The attached data set is climate data from Denver International Airport for the 
 ## Summary
 
 We were succesfully able to load the dataset and use the correct functions to maipulate the dataset by dropping unnecessary columns, setting DATE column as index, create 'Elapsed time' column with proper format to represent time from first observation, deal with missing or NaN values, and perfrom analysis with meaningful groupby choices. We maipulated the dataset to transform it into a cleaner version to be able to allow new perspective by adding new columns and cleaning it up with formatting and other ways to handle the dataset to be able to run analysis. We succesfully we able to have meaningful groupby functions that could be used for further analysis if desired. 
-# Reference:¶
+## Reference:¶
 Chen, D. Y. (2019). Python Data Analysis. Pearson Addison Wesley Data & Analytics Series. In Pandas for Everyone.
